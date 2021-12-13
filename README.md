@@ -1,8 +1,10 @@
-### Hi, my name is Diego Pardo! 🐱‍🚀
+### Hi, my name is Diego Pardo!🐥
 You can find me:
 - Twitter
 - Linkedin
-![Imagen de carga](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fbattery-charging-png%2Fdownload%2F13530&psig=AOvVaw1QoAKHAnwZ3FI_vnBMazZ0&ust=1639441962548000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNC3-LLD3_QCFQAAAAAdAAAAABAO)
+- Instagram
+
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fbattery-charging-png%2Fdownload%2F13530&psig=AOvVaw1QoAKHAnwZ3FI_vnBMazZ0&ust=1639441962548000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNC3-LLD3_QCFQAAAAAdAAAAABAO)
 <!--
 **DiegoPardoMontero/DiegoPardoMontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
