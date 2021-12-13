@@ -3,8 +3,7 @@ You can find me:
 - Twitter
 - Linkedin
 - Instagram
-
-![img](http://i.imgur.com/yourfilename.png)
+<img src="https://i.imgur.com/wLhNQ9j.png" alt="My cool logo"/>
 
 <!--
 **DiegoPardoMontero/DiegoPardoMontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
