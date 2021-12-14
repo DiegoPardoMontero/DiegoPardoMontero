@@ -1,8 +1,8 @@
 ### Hi, my name is Diego Pardo!🐥
-You can find me:
-- Twitter
-- Linkedin
-- Instagram
+You can contact me:
+- Twitter: @dpardo_dev
+- Linkedin: Diego Alejandro Pardo Montero 
+- Gmail: diegopardomontero@gmail.com
 <img src="https://i.imgur.com/wLhNQ9j.png" alt="My cool logo"/>
 
 <!--
