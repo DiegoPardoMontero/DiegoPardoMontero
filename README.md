@@ -6,6 +6,8 @@ You can contact me:
 
 <a href="https://app.daily.dev/DiegoPardo"><img src="https://api.daily.dev/devcards/3c9cbf33301546f2900a76f6e79101c8.png?r=on1" width="400" alt="DiegoPardoMontero's Dev Card"/></a>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DiegoPardoMontero/DiegoPardoMontero/blob/master/devcard.svg" width="400" alt="Diego Pardo Dev Card"/></a>
+
 <img src="https://i.imgur.com/wLhNQ9j.png" alt="My cool logo"/>
 
 <!--
