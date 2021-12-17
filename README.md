@@ -1,8 +1,7 @@
 ### Hi, my name is Diego Pardo!🐥
-You can contact me:
-- Twitter: @dpardo_dev
-- Linkedin: Diego Alejandro Pardo Montero 
-- Gmail: diegopardomontero@gmail.com
+You can find me:
+- [Twitter] (https://twitter.com/dpardo_dev)
+- {Instagram] (https://www.instagram.com/diegopardo_montero/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML_5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
