@@ -4,11 +4,13 @@ You can contact me:
 - Linkedin: Diego Alejandro Pardo Montero 
 - Gmail: diegopardomontero@gmail.com
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/DiegoPardoMontero/DiegoPardoMontero/blob/master/devcard.svg" width="400" alt="Diego Pardo Dev Card"/></a>
-
-<img src="https://i.imgur.com/wLhNQ9j.png" alt="My cool logo"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML 5](https://img.shields.io/badge/HTML_5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS 3](https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
+
 **DiegoPardoMontero/DiegoPardoMontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
