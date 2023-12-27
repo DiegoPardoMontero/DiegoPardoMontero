@@ -70,7 +70,7 @@ I am particularly interested in backend development, with a future focus on soft
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Diego Pardo Montero]&show_icons=true&theme=algolia" alt="Your GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego Pardo Montero&show_icons=true&theme=algolia" alt="Your GitHub Stats">
 </p>
 
 ---
