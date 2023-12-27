@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Diego Pardo Montero! 🐥</h1>
 <p align="center">
-  <a href="https://twitter.com/dpardo_dev"><img src="https://img.shields.io/twitter/follow/dpardo_dev?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/diegopardomontero/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+  <a href="https://twitter.com/dpardo_dev"><img src="https://img.shields.io/twitter/follow/dpardo_dev?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://platzi.com/p/DiegoPardoMontero/"><img src="https://img.shields.io/badge/Platzi-Profile-green"></a>
 </p>
 
@@ -26,22 +26,23 @@ I am particularly interested in backend development, with a future focus on soft
 
 ### Main Frameworks:
 
-- **Spring, Hibernate**
-- **Django**
-- **.NET**
-- **Angular**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Development Tools:
 
-- **Git**
-- **Docker**
-- **Jenkins**
-- **Travis CI**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
 
 ### Testing:
 
-- **JUnit**
-- **Selenium**
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Development Environments:
 
@@ -69,7 +70,7 @@ I am particularly interested in backend development, with a future focus on soft
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[DiegoPardoMontero]&show_icons=true&theme=algolia" alt="Your GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=algolia" alt="Your GitHub Stats">
 </p>
 
 ---
