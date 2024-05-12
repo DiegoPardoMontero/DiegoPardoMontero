@@ -80,6 +80,8 @@ I am particularly interested in backend development, with a future focus on soft
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoPardoMontero&show_icons=true&theme=algolia" alt="Your GitHub Stats">
 </p>
 
+![](https://komarev.com/ghpvc/?username=DiegoPardoMontero&color=blue&style=&style=flat-square)
+
 ---
 
 <p align="center">💼 Any freelance work? Feel free to contact me!</p>
