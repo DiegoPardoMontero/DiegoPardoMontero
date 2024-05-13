@@ -64,6 +64,10 @@ I am particularly interested in backend development, with a future focus on soft
 - Java SE Courses (OOP, Persistence, Deployment)
 - C# and .NET Courses (Basic, Best Practices, Clean Code)
 - Python Courses (Introduction to Computational Thinking, Intermediate)
+- Python for DataScience and AI by IBM
+- Git and GitHub from Google
+- Foundations of Project Management from Google
+- Introduction to Databases from Meta
 
 ## 📫 How to Reach Me
 
