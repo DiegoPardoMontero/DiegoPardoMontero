@@ -7,7 +7,7 @@
 
 ## 📖 About Me
 
-My name is Diego Pardo Montero. I'm a final year systems/software engineering student at Pontificia Universidad Javeriana. I have been learning software development for over 5 years through my academic career as well as through self-taught learning with certifications, courses, diplomas, and e-learning.
+My name is Diego Pardo Montero. I'm a final year systems/software engineering student at Pontificia Universidad Javeriana. I have been learning software development for over 4 years through my academic career as well as through self-taught learning with certifications, courses, diplomas, and e-learning.
 
 I am particularly interested in backend development, with a future focus on software architecture and cloud computing.
 
@@ -58,16 +58,21 @@ I am particularly interested in backend development, with a future focus on soft
 
 ## 🎓 Education & Continuous Learning
 
-- Professional Git and Github Course
-- Fundamentals of Software Engineering
-- Fundamentals of Software Architecture
-- Java SE Courses (OOP, Persistence, Deployment)
-- C# and .NET Courses (Basic, Best Practices, Clean Code)
-- Python Courses (Introduction to Computational Thinking, Intermediate)
-- Python for DataScience and AI by IBM
-- Git and GitHub from Google
-- Foundations of Project Management from Google
-- Introduction to Databases from Meta
+- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Career in Java Backend Development by Platzi
+- ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/64px-Logo_2013_Google.png) Google Cloud Fundamentals: Core Infrastructure by Google
+- ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/64px-Logo_2013_Google.png) Architecting with Google Kubernetes by Google
+- ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/64px-Logo_2013_Google.png) Foundations of Project Management from Google
+- ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/64px-Logo_2013_Google.png) Git and GitHub from Google
+- ![IBM](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/64px-IBM_logo.svg.png) Python for Data Science and AI by IBM
+- ![IBM](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/64px-IBM_logo.svg.png) Introduction to Software Engineering by IBM
+- ![Meta](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Meta_Platforms_Inc._logo.svg/64px-Meta_Platforms_Inc._logo.svg.png) Introduction to Databases by Meta
+- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Professional Git and GitHub Course
+- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Fundamentals of Software Engineering
+- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Fundamentals of Software Architecture
+- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Java SE Courses (OOP, Persistence, Deployment)
+- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) C# and .NET Courses (Basic, Best Practices, Clean Code)
+- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Python Courses (Introduction to Computational Thinking, Intermediate)
+
 
 ## 📫 How to Reach Me
 
