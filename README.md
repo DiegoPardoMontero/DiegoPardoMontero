@@ -58,20 +58,21 @@ I am particularly interested in backend development, with a future focus on soft
 
 ## 🎓 Education & Continuous Learning
 
-- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Career in Java Backend Development by Platzi
+- <img src="https://static.platzi.com/media/favicons/platzi_favicon.png" width="20" height="20"> Career in Java Backend Development by Platzi
 - ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/64px-Logo_2013_Google.png) Google Cloud Fundamentals: Core Infrastructure by Google
 - ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/64px-Logo_2013_Google.png) Architecting with Google Kubernetes by Google
 - ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/64px-Logo_2013_Google.png) Foundations of Project Management from Google
 - ![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/64px-Logo_2013_Google.png) Git and GitHub from Google
 - ![IBM](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/64px-IBM_logo.svg.png) Python for Data Science and AI by IBM
 - ![IBM](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/64px-IBM_logo.svg.png) Introduction to Software Engineering by IBM
-- ![Meta](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Meta_Platforms_Inc._logo.svg/64px-Meta_Platforms_Inc._logo.svg.png) Introduction to Databases by Meta
-- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Professional Git and GitHub Course
-- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Fundamentals of Software Engineering
-- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Fundamentals of Software Architecture
-- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Java SE Courses (OOP, Persistence, Deployment)
-- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) C# and .NET Courses (Basic, Best Practices, Clean Code)
-- ![Platzi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Platzi_icon_2020.svg/64px-Platzi_icon_2020.svg.png) Python Courses (Introduction to Computational Thinking, Intermediate)
+- <img src="https://media.discordapp.net/attachments/1182055171723903089/1248352055022587935/toppng.com-hd-meta-facebook-logo-4428x1294.png?ex=666359f3&is=66620873&hm=9fbf60535b7fc4589e7ffac90c61dbd1e75e6d7671cd7e1833f6dcd8c16b5314&=&format=webp&quality=lossless&width=1440&height=421" width="90" height="30"> Introduction to Databases by Meta
+- <img src="https://static.platzi.com/media/favicons/platzi_favicon.png" width="20" height="20"> Professional Git and GitHub Course
+- <img src="https://static.platzi.com/media/favicons/platzi_favicon.png" width="20" height="20"> Fundamentals of Software Engineering
+- <img src="https://static.platzi.com/media/favicons/platzi_favicon.png" width="20" height="20"> Fundamentals of Software Architecture
+- <img src="https://static.platzi.com/media/favicons/platzi_favicon.png" width="20" height="20"> Java SE Courses (OOP, Persistence, Deployment)
+- <img src="https://static.platzi.com/media/favicons/platzi_favicon.png" width="20" height="20"> C# and .NET Courses (Basic, Best Practices, Clean Code)
+- <img src="https://static.platzi.com/media/favicons/platzi_favicon.png" width="20" height="20"> Python Courses (Introduction to Computational Thinking, Intermediate)
+
 
 
 ## 📫 How to Reach Me
